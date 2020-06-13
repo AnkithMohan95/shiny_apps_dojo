@@ -1,4 +1,4 @@
 # shiny_apps_dojo
 Shiny app development exercises
 
-ms: https://mastering-shiny.org
+https://mastering-shiny.org
